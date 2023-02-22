@@ -28,3 +28,5 @@ Para ver esse projeto funcionando na sua máquina:
 > npm install
 - Para visualizar o projeto em uma página web utilize:
 > npm start
+
+## o CSS desse projeto não foi desenvolvido. 
